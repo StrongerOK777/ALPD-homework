@@ -1,0 +1,63 @@
+# ===========================
+# 媒体文件（忽略大文件）
+# ===========================
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# ===========================
+# macOS 系统文件
+# ===========================
+.mp4
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ===========================
+# Visual Studio / MSBuild
+# ===========================
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+ipch/
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+
+# ===========================
+# Xcode / macOS 编译产物
+# ===========================
+output/
+*.dSYM/
+*.dSYM
+build/
+DerivedData/
+
+# ===========================
+# 编辑器临时文件
+# ===========================
+*.swp
+*.swo
+*~
+.vscode/
