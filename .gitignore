@@ -15,7 +15,6 @@
 # macOS 系统文件
 # ===========================
 .vs/
-.mp4
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -27,6 +26,7 @@
 # Visual Studio / MSBuild
 # ===========================
 .vs/
+v17/
 *.user
 *.suo
 *.sdf
